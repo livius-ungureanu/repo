@@ -1,0 +1,22 @@
+<scheme name="Darcula2" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0833334" />
+  <metaInfo>
+    <property name="created">2017-08-22T11:18:37</property>
+    <property name="ide">Idea</property>
+    <property name="ideVersion">2017.2.2.0.0</property>
+    <property name="modified">2017-08-22T12:19:39</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="174864" />
+  </colors>
+  <attributes>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="523d64" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
