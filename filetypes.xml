@@ -5,6 +5,7 @@
       <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping pattern="withFullstack" type="Perl" />
+      <mapping pattern="radius_contour" type="PlantUML file" />
       <mapping ext="demo" type="YAML" />
     </extensionMap>
   </component>
