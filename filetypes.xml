@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="pl" type="Perl" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
     </extensionMap>
