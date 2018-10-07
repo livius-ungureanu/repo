@@ -4,6 +4,7 @@
       <mapping pattern="DEP_VERSIONS" type="PLAIN_TEXT" />
       <mapping pattern="transform" type="PLAIN_TEXT" />
       <mapping ext="pl" type="Perl" />
+      <mapping ext="jinja2" type="Perl" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
     </extensionMap>
   </component>
