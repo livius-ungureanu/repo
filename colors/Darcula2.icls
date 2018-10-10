@@ -4,7 +4,7 @@
     <property name="created">2017-08-22T11:18:37</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2018-10-10T12:53:11</property>
+    <property name="modified">2018-10-10T14:20:47</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -26,7 +26,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="758510" />
+        <option name="FOREGROUND" value="e2313b" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
